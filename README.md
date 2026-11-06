@@ -15,7 +15,8 @@ Users can explore popular movies, browse movies by genre, and search for specifi
 ## 🛠️ Technologies Used
 
 - Python
-- Add the libraries and frameworks used in this project here.
+-API Keys
+-Streamlit
 
 ## 🚀 Getting Started
 
@@ -33,7 +34,6 @@ cd Movie-recommendation-system
 
 ### 3. Install dependencies
 
-If your project contains a `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ### 4. Run the application
 
-Run the appropriate Python application file:
+
 
 ```bash
 python app.py
